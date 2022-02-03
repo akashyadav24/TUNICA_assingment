@@ -1,0 +1,404 @@
+{
+  "AllStudentData": [
+    {
+      "Username": "AKSHAY VIJAY BOKADE",
+      "Dob": "2000-06-24T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "2",
+      "Division": "A",
+      "Active": true,
+      "Inactive": false,
+      "id": 1
+    },
+    {
+      "Username": "abhay",
+      "Dob": "2005-06-24T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": true,
+      "Inactive": false,
+      "id": 2
+    },
+    {
+      "Username": "AKSHAY BOKADE",
+      "Dob": "2002-05-31T18:30:00.000Z",
+      "Schoolname": "karmavir Vidyalaya",
+      "Class": "3",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 3
+    },
+    {
+      "Username": "dvjkdbjkv",
+      "Dob": "2002-06-01T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": true,
+      "Inactive": false,
+      "id": 4
+    },
+    {
+      "Username": "ndjkjsbkbskj",
+      "Dob": "1999-06-07T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": true,
+      "Inactive": false,
+      "id": 5
+    },
+    {
+      "Username": "bhcvsab",
+      "Dob": "1999-05-31T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 6
+    },
+    {
+      "Username": "dvhj",
+      "Dob": "1999-06-07T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "2",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 7
+    },
+    {
+      "Username": "bajsvbcjhbsa",
+      "Dob": "1999-06-15T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 8
+    },
+    {
+      "Username": "sabhjbfvasf",
+      "Dob": "1999-06-10T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 9
+    },
+    {
+      "Username": "bjvbkjsb",
+      "Dob": "1999-06-21T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "2",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 10
+    },
+    {
+      "Username": "nkhjgjgk",
+      "Dob": "1999-06-02T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "3",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 11
+    },
+    {
+      "Username": "vhdgdhjghl;j",
+      "Dob": "1999-06-01T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "1",
+      "Division": "C",
+      "Active": false,
+      "Inactive": true,
+      "id": 12
+    },
+    {
+      "Username": "vhvjh'klkjgj",
+      "Dob": "2002-06-10T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 13
+    },
+    {
+      "Username": " nmvhchgcghyf",
+      "Dob": "2002-06-15T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "2",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 14
+    },
+    {
+      "Username": "vhftdtdyf",
+      "Dob": "2002-06-08T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "3",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 15
+    },
+    {
+      "Username": " hfghdfgstrd",
+      "Dob": "2002-06-01T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 16
+    },
+    {
+      "Username": "xdffgdgd",
+      "Dob": "2002-06-15T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 17
+    },
+    {
+      "Username": "vhjhjfjf",
+      "Dob": "2002-06-09T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "2",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 18
+    },
+    {
+      "Username": "cfgsfdghghkj",
+      "Dob": "2002-06-01T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "2",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 19
+    },
+    {
+      "Username": "cdjhkjljkjh",
+      "Dob": "2002-06-08T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "2",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 20
+    },
+    {
+      "Username": "vhfdgfzfhj",
+      "Dob": "2002-06-01T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "2",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 21
+    },
+    {
+      "Username": "sateesh punna",
+      "Dob": "2002-06-01T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 22
+    },
+    {
+      "Username": "dbvhjdbshhj",
+      "Dob": "2002-06-22T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 23
+    },
+    {
+      "Username": "bshjvbshavu",
+      "Dob": "2002-06-11T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 24
+    },
+    {
+      "Username": "bsjbhsav",
+      "Dob": "2005-06-24T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 25
+    },
+    {
+      "Username": "dbvhjhvhj",
+      "Dob": "2005-06-14T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 26
+    },
+    {
+      "Username": "bvjbsvhjbs",
+      "Dob": "2005-06-07T18:30:00.000Z",
+      "Schoolname": "Swami Vivekanand Vidyalaya ",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 27
+    },
+    {
+      "Username": "bfhjbshfv",
+      "Dob": "2005-06-07T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 28
+    },
+    {
+      "Username": "bchjavsch",
+      "Dob": "2005-05-31T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": false,
+      "Inactive": true,
+      "id": 29
+    },
+    {
+      "Username": "AVB",
+      "Dob": "2020-12-24T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 30
+    },
+    {
+      "Username": "AAAA",
+      "Dob": "2005-06-01T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 31
+    },
+    {
+      "Username": "AABBH",
+      "Dob": "2005-06-17T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 32
+    },
+    {
+      "Username": "BBBB",
+      "Dob": "Fri Jun 18 2005 00:00:00 GMT+0530 (India Standard Time)",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 33
+    },
+    {
+      "Username": "aababab",
+      "Dob": "Thu Jun 03 2005 00:00:00 GMT+0530 (India Standard Time)",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 34
+    },
+    {
+      "Username": "ababab",
+      "Dob": "Fri Jun 18 2000 00:00:00 GMT+0530 (India Standard Time)",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "2",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 35
+    },
+    {
+      "Username": "bokade abhay vijay",
+      "Dob": "2000-06-03T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 36
+    },
+    {
+      "Username": "AVBAVB",
+      "Dob": "2000-06-11T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "2",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 37
+    },
+    {
+      "Username": "bdhfbdv",
+      "Dob": "2000-06-03T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "B",
+      "Active": true,
+      "Inactive": false,
+      "id": 38
+    },
+    {
+      "Username": "bdhbvhj",
+      "Dob": "2000-06-02T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": true,
+      "Inactive": false,
+      "id": 39
+    },
+    {
+      "Username": "akshay bokade",
+      "Dob": "2000-06-17T18:30:00.000Z",
+      "Schoolname": "Nav Bharat Vidyalaya",
+      "Class": "1",
+      "Division": "A",
+      "Active": false,
+      "Inactive": true,
+      "id": 40
+    }
+  ]
+}
