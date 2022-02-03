@@ -1,7 +1,7 @@
 {
   "name": "school-project",
   "version": "0.1.0",
-  "homepage": "https://akashyadav24.github.io/TUNICA_assingment/",
+  "homepage": "https://akashyadav24.github.io/TUNICA_assingment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
