@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TUNICA_assingment/static/css/main.cf24dd66.chunk.css",
+    "main.js": "/TUNICA_assingment/static/js/main.709f4738.chunk.js",
+    "main.js.map": "/TUNICA_assingment/static/js/main.709f4738.chunk.js.map",
+    "runtime-main.js": "/TUNICA_assingment/static/js/runtime-main.3de8c049.js",
+    "runtime-main.js.map": "/TUNICA_assingment/static/js/runtime-main.3de8c049.js.map",
+    "static/css/2.4c78f058.chunk.css": "/TUNICA_assingment/static/css/2.4c78f058.chunk.css",
+    "static/js/2.5c159a3d.chunk.js": "/TUNICA_assingment/static/js/2.5c159a3d.chunk.js",
+    "static/js/2.5c159a3d.chunk.js.map": "/TUNICA_assingment/static/js/2.5c159a3d.chunk.js.map",
+    "static/js/3.a20162fa.chunk.js": "/TUNICA_assingment/static/js/3.a20162fa.chunk.js",
+    "static/js/3.a20162fa.chunk.js.map": "/TUNICA_assingment/static/js/3.a20162fa.chunk.js.map",
+    "index.html": "/TUNICA_assingment/index.html",
+    "static/css/2.4c78f058.chunk.css.map": "/TUNICA_assingment/static/css/2.4c78f058.chunk.css.map",
+    "static/css/main.cf24dd66.chunk.css.map": "/TUNICA_assingment/static/css/main.cf24dd66.chunk.css.map",
+    "static/js/2.5c159a3d.chunk.js.LICENSE.txt": "/TUNICA_assingment/static/js/2.5c159a3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de8c049.js",
+    "static/css/2.4c78f058.chunk.css",
+    "static/js/2.5c159a3d.chunk.js",
+    "static/css/main.cf24dd66.chunk.css",
+    "static/js/main.709f4738.chunk.js"
+  ]
+}
